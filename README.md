@@ -1,4 +1,4 @@
-# Indicators of Compromize
+# Indicators of Compromise
 
 ## Contact
 
