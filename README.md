@@ -9,4 +9,4 @@ of compromize by it's SOC team.
 -  SOC Contact:	 info@to.com
 
 
-
+WARNING: This data is not intended to be used in automatic blacklists!
