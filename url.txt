@@ -122,6 +122,8 @@ http://accountgoogle.firewall-gateway.com/servicclogin
 http://accountgoogle.firewall-gateway.com/serviclogin
 http://acddesigns.com.au/clients/ACPRCM/kingstone.jpg
 http://amytiville(.)boysville(.)org
+http://ao3.hmgo.pw/tags/Akihabara@TODEEP/works
+http://ao3.hmgo.pw/tags/Akihabara@TODEEP/works/update
 http://api.entrycache.com
 http://api.macsmoments.com
 http://api.typicalarchive.com
